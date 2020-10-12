@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 564: style property frame is not known.
+    frame:
+         ^
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Mon Aug 24 21:12:26 2020
